@@ -2,4 +2,4 @@
 
 1번 실행결과<br>
 <img
-src="https://github.com/YCJeon/PP1_Project1/blob/main/screenshots/스크린샷%202023-09-01%20오후%205.02.03.png" width="400">
+src="https://github.com/YCJeon/PP1_Project1/blob/main/screenshots/스크린샷%202023-09-01%20오후%205.02.03.png", width="400">
